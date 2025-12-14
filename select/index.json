@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "君を知らない",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-14T06:50:45.225972Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君を知らない (~The White Lounge Version~ / Live) - Kimiwo Shiranai (~The White Lounge Version~ / Live)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_君を知らない_(~The_White_Lounge_Version~___Live)_-_Kimiwo_Shiranai_(~The_White_Lounge__Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君を知らない - ~The White Lounge Version~ / Live",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_君を知らない_-_~The_White_Lounge_Version~___Live_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君を知らない",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_君を知らない_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
